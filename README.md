@@ -12,7 +12,7 @@ La finalidad de este trabajo es crear una actividad interactiva en la que los us
 * Modelo de CNN: Creado por [David Gamaliel Arcos](https://github.com/Gamapro)
 * Implementación de la Interfaz: Desarrollada con apoyo de ChatGPT. 🚀
 * Participantes: 
- * [Ingrid Monterroso Alfaro] (https://github.com/ingridmidory) 
+ * [Ingrid Monterroso Alfaro](https://github.com/ingridmidory)
  * Ahuacatitan Espindola José Luis
  * [De la Cruz Saavedra Uriel](https://github.com/Uriel-CS)
  * [Godoy Santiago José Ángel](https://github.com/Angel-GS07/)
