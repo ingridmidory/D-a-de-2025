@@ -14,5 +14,6 @@ La finalidad de este trabajo es crear una actividad interactiva en la que los us
 * Participantes: 
  * [Ingrid Monterroso Alfaro] (https://github.com/ingridmidory) 
  * Ahuacatitan Espindola José Luis
- * De la Cruz Saavedra Uriel
- * Godoy Santiago José Ángel
+ * [De la Cruz Saavedra Uriel](https://github.com/Uriel-CS)
+ * [Godoy Santiago José Ángel](https://github.com/Angel-GS07/)
+
