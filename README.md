@@ -13,7 +13,7 @@ La finalidad de este trabajo es crear una actividad interactiva en la que los us
 * Implementación de la Interfaz: Desarrollada con apoyo de ChatGPT. 🚀
 * Participantes: 
  * [Ingrid Monterroso Alfaro](https://github.com/ingridmidory)
- * Ahuacatitan Espindola José Luis
+ * [Ahuacatitan Espindola José Luis](https://github.com/Aguacate714)
  * [De la Cruz Saavedra Uriel](https://github.com/Uriel-CS)
  * [Godoy Santiago José Ángel](https://github.com/Angel-GS07/)
 
